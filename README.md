@@ -1,9 +1,14 @@
-### Hi there 👋
-
-<center>
 ![Overview](https://github.com/jlfsjunior/github-stats/blob/master/generated/overview.svg)
 ![Languages](https://github.com/jlfsjunior/github-stats/blob/master/generated/languages.svg)
-</center>
+
+Hello world!
+
+I am José and I am currently working at [The LEGO Group](lego.com) as a Data Scientist.
+
+I am interested in how to use different technologies and skills to build data-intensive applications.
+
+More to come...
+
 
 <!--
 **jlfsjunior/jlfsjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
