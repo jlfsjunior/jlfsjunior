@@ -3,7 +3,7 @@
 
 Hello world!
 
-I am José and I am currently working at [The LEGO Group](lego.com) as a Data Scientist.
+I am José and I am currently working at [The LEGO Group](https://lego.com) as a Data Scientist.
 
 I am interested in how to use different technologies and skills to build data-intensive applications.
 
