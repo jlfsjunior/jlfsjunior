@@ -3,7 +3,9 @@
 
 Hello world!
 
-I am José and I am currently working at [The LEGO Group](https://lego.com) as a Data Scientist.
+I am José and I am currently working at [In Commodities](https://incommodities.com/#about) as a Data Scientist for Power Trading. Prior to that, I have worked for around 3 years in two other Danish companies in a similar role.
+
+My academic background is in Theoretical/Computational Physics and I have completed my doctorate studies in [Grenoble Alpes University](https://www.univ-grenoble-alpes.fr/)/[Institut Néel](neel.cnrs.fr).
 
 I am interested in how to use different technologies and skills to build data-intensive applications.
 
