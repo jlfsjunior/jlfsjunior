@@ -14,7 +14,7 @@ I am also very interested in how to communicate with data, primarily through web
 Now, following Github's suggestions:
 
 - 🌱 I’m currently learning about financial markets and how to model options.
-- 🤔 I’m looking for help with [Dash Chakra UI Components]()
+- 🤔 I’m looking for help with [Dash Chakra UI Components](https://dash-chakraui-components.herokuapp.com/) (pleeeease 😃)
 - 💬 Ask me about: RStudio Connect before I forget about it; D3, because I don't want to forget about it
 
 <!--
